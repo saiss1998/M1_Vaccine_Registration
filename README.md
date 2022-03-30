@@ -2,9 +2,9 @@
 ## About the code
 # Calculator
 
-Build | Code Quality | Git Inspector | code quality score |
+Build | U | Git Inspector | code quality score |
 |---------|------------|-------------|--------------------|
-|[![C/C++ CI](https://github.com/saiss1998/M1_Vaccine_Registration/actions/workflows/c-build.yml/badge.svg)](https://github.com/saiss1998/M1_Vaccine_Registration/actions/workflows/c-build.yml)| [![Unit Testing - Unity](https://github.com/Choudhury99/M1_Calculator/actions/workflows/unity.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/Choudhury99/M1_Calculator/actions/workflows/codeinspector.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/codeinspector.yml)|[![Static Code Quality- Cppcheck](https://github.com/Choudhury99/M1_Calculator/actions/workflows/cpp.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/cpp.yml)|
+|[![C/C++ CI](https://github.com/saiss1998/M1_Vaccine_Registration/actions/workflows/c-build.yml/badge.svg)](https://github.com/saiss1998/M1_Vaccine_Registration/actions/workflows/c-build.yml)| [![Unit Testing - Unity](https://github.com/saiss1998/M1_Vaccine_Registration/actions/workflows/unity.yml/badge.svg)](https://github.com/saiss1998/M1_Vaccine_Registration/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/Choudhury99/M1_Calculator/actions/workflows/codeinspector.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/codeinspector.yml)|[![Static Code Quality- Cppcheck](https://github.com/Choudhury99/M1_Calculator/actions/workflows/cpp.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/cpp.yml)|
 
 #### Folder Structure
 Folder             | Description

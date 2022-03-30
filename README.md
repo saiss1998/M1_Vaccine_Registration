@@ -1,18 +1,9 @@
 # M1_vaccine_Registration
 ## About the code
-# Calculator
+| Codacy | Code Inspector | CI | Unity |
+| --- | --- | --- | --- |
+| [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a1edf2417a2e46699e8245f518c674f4)](https://app.codacy.com/gh/amithsnair11/StepIN_VaccineRegist?utm_source=github.com&utm_medium=referral&utm_content=amithsnair11/StepIN_VaccineRegist&utm_campaign=Badge_Grade_Settings) | ![Code Quality Score](https://www.code-inspector.com/project/28301/score/svg) ![Code Grade](https://www.code-inspector.com/project/28301/status/svg) | [![C/C++ CI](https://github.com/amithsnair11/StepIN_VaccineRegist/actions/workflows/c-build.yml/badge.svg)](https://github.com/amithsnair11/StepIN_VaccineRegist/actions/workflows/c-build.yml) [![CI](https://github.com/amithsnair11/StepIN_VaccineRegist/actions/workflows/main.yml/badge.svg)](https://github.com/amithsnair11/StepIN_VaccineRegist/actions/workflows/main.yml) | [![Unit Testing - Unity](https://github.com/amithsnair11/StepIN_VaccineRegist/actions/workflows/unity.yml/badge.svg)](https://github.com/amithsnair11/StepIN_VaccineRegist/actions/workflows/unity.yml) |
 
-Build | U | Git Inspector | code quality score |
-|---------|------------|-------------|--------------------|
-|[![C/C++ CI](https://github.com/saiss1998/M1_Vaccine_Registration/actions/workflows/c-build.yml/badge.svg)](https://github.com/saiss1998/M1_Vaccine_Registration/actions/workflows/c-build.yml)| [![Unit Testing - Unity](https://github.com/saiss1998/M1_Vaccine_Registration/actions/workflows/unity.yml/badge.svg)](https://github.com/saiss1998/M1_Vaccine_Registration/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/Choudhury99/M1_Calculator/actions/workflows/codeinspector.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/codeinspector.yml)|[![Static Code Quality- Cppcheck](https://github.com/Choudhury99/M1_Calculator/actions/workflows/cpp.yml/badge.svg)](https://github.com/Choudhury99/M1_Calculator/actions/workflows/cpp.yml)|
-
-#### Folder Structure
-Folder             | Description
--------------------| -----------------------------------------
-`1_Requirements`   | Documents detailing requirements and research
-`2_Architecture`         | Documents specifying design details
-`3_Implementation` | All code and documentation
-`4_Testplan`      | Documents with test plans and procedures
 ## Aim
 * Smoother vaccination registration process
 * Reduced data traffic in the main server

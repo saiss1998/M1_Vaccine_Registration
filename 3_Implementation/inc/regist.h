@@ -1,5 +1,6 @@
-#define REGIST_C
 #ifndef REGIST_C
+#define REGIST_C
+
 
  //Checks for the registration details of new patients that register
 int regist_status(long pd );
